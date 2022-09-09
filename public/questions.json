@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "questionText": "What is React?",
+      "answerOptions": [
+        { "answerText": "Framework", "isCorrect": false },
+        { "answerText": "Library", "isCorrect": true },
+        { "answerText": "Compiller", "isCorrect": false },
+        { "answerText": "Programming language", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How we manage state in React?",
+      "answerOptions": [
+        { "answerText": "useEffect", "isCorrect": false },
+        { "answerText": "useMangeState", "isCorrect": false },
+        { "answerText": "useCallback", "isCorrect": false },
+        { "answerText": "useState", "isCorrect": true }
+      ]
+    },
+    {
+      "questionText": "What is an apple?",
+      "answerOptions": [
+        { "answerText": "New JS framework.", "isCorrect": false },
+        { "answerText": "New method in JS", "isCorrect": false },
+        { "answerText": "Fruit", "isCorrect": true },
+        { "answerText": "Program like \"Figma\"", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Change the result: '1' + 1 = ?",
+      "answerOptions": [
+        { "answerText": "2", "isCorrect": false },
+        { "answerText": "11", "isCorrect": true },
+        { "answerText": "NaN", "isCorrect": false },
+        { "answerText": "error", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Select confirm proposition about method \"find\":",
+      "answerOptions": [
+        {
+          "answerText": "The find() method returns the first element in the provided array that satisfies the provided testing function.",
+          "isCorrect": true
+        },
+        {
+          "answerText": "The find() method returns the index of the first element in an array that satisfies the provided testing function.",
+          "isCorrect": false
+        },
+        {
+          "answerText": "The find() method creates a shallow copy of a portion of a given array, filtered down to just the elements from the given array that pass the test implemented by the provided function.",
+          "isCorrect": false
+        },
+        { "answerText": "Nothing", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "When the react was created?",
+      "answerOptions": [
+        { "answerText": "2014", "isCorrect": false },
+        { "answerText": "2013", "isCorrect": true },
+        { "answerText": "2012", "isCorrect": false },
+        { "answerText": "2015", "isCorrect": false }
+      ]
+    }
+  ]
+}
