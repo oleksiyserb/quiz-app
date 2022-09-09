@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "questionText": "What is React?",
+      "answers": [
+        { "answerText": "Framework", "isCorrect": false },
+        { "answerText": "Library", "isCorrect": true },
+        { "answerText": "Compiller", "isCorrect": false },
+        { "answerText": "Programming language", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "How we manage state in React?",
+      "answers": [
+        { "answerText": "useEffect", "isCorrect": false },
+        { "answerText": "useMangeState", "isCorrect": false },
+        { "answerText": "useCallback", "isCorrect": false },
+        { "answerText": "useState", "isCorrect": true }
+      ]
+    },
+    {
+      "questionText": "Do you like apples?",
+      "answers": [
+        { "answerText": "What is apples?", "isCorrect": false },
+        { "answerText": "No, I don't", "isCorrect": false },
+        { "answerText": "Yes, I do!!!", "isCorrect": true },
+        { "answerText": "Nothing", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Change the result: '1' + 1 = ?",
+      "answers": [
+        { "answerText": "2", "isCorrect": false },
+        { "answerText": "11", "isCorrect": true },
+        { "answerText": "NaN", "isCorrect": false },
+        { "answerText": "error", "isCorrect": false }
+      ]
+    }
+  ]
+}
